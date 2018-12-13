@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1544540252 source:d:\new folder (6)\a4_version_6\dna.cpp
+	<bits/stdc++.h>
+	"DNA.h"
+	"RNA.h"
+
+1544540252 d:\new folder (6)\a4_version_6\dna.h
+	<bits/stdc++.h>
+	"Sequence.h"
+
+1544535512 d:\new folder (6)\a4_version_6\sequence.h
+	<bits/stdc++.h>
+
+1544542601 d:\new folder (6)\a4_version_6\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544541186 source:d:\new folder (6)\a4_version_6\sequence.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+
+1544541356 source:d:\new folder (6)\a4_version_6\main.cpp
+	<bits/stdc++.h>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+
+1544581626 source:d:\new folder (6)\a4_version_6\rna.cpp
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<bits/stdc++.h>
+
+1544527460 source:d:\new folder (6)\a4_version_6\codonstable.cpp
+	"CodonsTable.h"
+	<bits/stdc++.h>
+
+1544526966 d:\new folder (6)\a4_version_6\codonstable.h
+	<fstream>
+	<cstring>
+
+1544541456 d:\new folder (6)\a4_version_6\protein.h
+	"Sequence.h"
+	"DNA.h"
+	<string>
+
+1544541927 source:d:\new folder (6)\a4_version_6\protein.cpp
+	"Protein.h"
+	"RNA.h"
+
